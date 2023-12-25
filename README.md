@@ -1,2 +1,2 @@
-# Identity Server System Poster 
-![alt text](https://github.com/TiTle162/Identity-Server-System-Documentary/blob/main/IDS-AUCC2022%20Poster.png?raw=true)
+# Seminar Presentation Topic
+![alt text](https://github.com/TiTle162/Seminar/blob/main/Seminar%20Presentation%20Topic.PNG?raw=true)
